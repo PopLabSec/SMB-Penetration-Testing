@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to SMB Penetration Testing Guide](README.md)
+* [Hacking Port 445](README.md)
 
 ## Attack Vectors
 
@@ -9,7 +9,6 @@
 ## The Protocol
 
 * [SMB Versions](the-protocol/smb-versions.md)
-* [Meet the Team!](the-protocol/meet-the-team.md)
 
 ## Enumeration
 
