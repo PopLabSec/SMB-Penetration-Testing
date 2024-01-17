@@ -2,10 +2,6 @@
 
 * [Hacking Port 445](README.md)
 
-## Attack Vectors
-
-* [Page 1](attack-vectors/page-1.md)
-
 ## The Protocol
 
 * [SMB Versions](the-protocol/smb-versions.md)
